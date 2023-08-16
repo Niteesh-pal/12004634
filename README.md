@@ -1,12 +1,18 @@
 # 12004634
 This is my first question
+
+
 to run app ---> node index.js
+
+
 and then write the url for number like prime, odd, fibbo
+
+
 I am u fontend developer but i hav some knowledge of backend, with that I have implemented this task.
 
 test url
+![4](https://github.com/Niteesh-pal/12004634/assets/106337502/c05fb64e-1d37-4723-9f3c-1a06fd9e4dee)
 
-![1](https://github.com/Niteesh-pal/12004634/assets/106337502/58f2c061-270a-4218-bbf6-887c3130d010)
 primes
 ![Screenshot (589)](https://github.com/Niteesh-pal/12004634/assets/106337502/893fc047-7e32-4b83-b849-31339c71b0b7)
 fibo
