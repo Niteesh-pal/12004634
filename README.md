@@ -5,11 +5,13 @@ and then write the url for number like prime, odd, fibbo
 I am u fontend developer but i hav some knowledge of backend, with that I have implemented this task.
 
 test url
-![Screenshot (585)](https://github.com/Niteesh-pal/12004634/assets/106337502/56a47673-34b4-4441-8036-1bfb11ffdb29)
+
 primes
-![Screenshot (586)](https://github.com/Niteesh-pal/12004634/assets/106337502/d9d38af4-093a-4dcf-aba7-d5c5bc9d42b1)
+![1](https://github.com/Niteesh-pal/12004634/assets/106337502/58f2c061-270a-4218-bbf6-887c3130d010)
+
 fibo
-![Screenshot (587)](https://github.com/Niteesh-pal/12004634/assets/106337502/afea40e1-ad1c-414b-a767-cdaf4b939fce)
+![2](https://github.com/Niteesh-pal/12004634/assets/106337502/3aacd436-2201-4d32-81cc-e19b0411c72e)
 odd
-![Screenshot (588)](https://github.com/Niteesh-pal/12004634/assets/106337502/f819f0f8-67af-4829-8ba1-ba328adbb79b)
+![3](https://github.com/Niteesh-pal/12004634/assets/106337502/1188d5d3-e888-4701-9682-50daf4724e80)
+
 
